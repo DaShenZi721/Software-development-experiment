@@ -1,0 +1,2 @@
+需要压缩的文件为：D:/CompressExperiment/build-CompressExperiment-Desktop_Qt_5_10_1_MinGW_32bit-Debug/.qmake.stash
+解压至：D:/CompressExperiment/build-CompressExperiment-Desktop_Qt_5_10_1_MinGW_32bit-Debug
